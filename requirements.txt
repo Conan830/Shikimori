@@ -104,7 +104,7 @@ tracemoepy
 lottie
 bs4
 
-dnspython
+
 natsort
 apscheduler
 lxml

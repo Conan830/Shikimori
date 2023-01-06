@@ -315,9 +315,6 @@ def info(update: Update, context: CallbackContext):
     elif user.id in TIGERS:
         text += "\n\n⍣ Tiger!"
         disaster_level_present = True
-    elif user.id == :
-        text += "\n\n• MY "
-        disaster_level_present = True
     elif user.id in WOLVES:
         text += "\n\n⍣ OK!"
         disaster_level_present = True

@@ -34,7 +34,7 @@ class Config(object):
     API_ID="13849191"
     BL_CHATS=[1]
     DB_URL="postgresql://xcxjwrdk:DpFaafLis8tdkVJkITW0fbjIr2cbRo3j@salt.db.elephantsql.com/xcxjwrdk" 
-    TOKEN="5696500136:AAF_i0YIrihTkovpuMUroZLNLnO5S5H90J0"
+    TOKEN="5970006962:AAEy006AHFlZKUllsabxni7ZKCthhYzjdPM"
     DEV_USERS=[]
     DRAGONS=[]
     SPAMWATCH_API=""

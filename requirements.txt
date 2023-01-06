@@ -95,7 +95,7 @@ pyjokes
 lyricsgenius
 lottie
 wand
-pyrogram
+
 tgcrypto
 requests
 aiofiles>=0.6.0

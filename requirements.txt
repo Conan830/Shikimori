@@ -103,7 +103,7 @@ aiohttp[speedups]>=3.7.3
 tracemoepy
 lottie
 bs4
-motor
+
 dnspython
 natsort
 apscheduler

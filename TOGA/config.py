@@ -22,7 +22,7 @@ class Config(object):
     NO_LOAD="translation"
     MONGO_DB=""
     WEBHOOK=False
-    BOT_API_URL="5970006962:AAFEuWgLH8PjvJkggpArlTi9iryjY22KQn4"
+    BOT_API_URL="5970006962:"
     #kacrmdi
     WOLVES=[]
     BOT_ID="5970006962" 
@@ -34,7 +34,7 @@ class Config(object):
     API_ID="13849191"
     BL_CHATS=[1]
     DB_URL="postgresql://xcxjwrdk:DpFaafLis8tdkVJkITW0fbjIr2cbRo3j@salt.db.elephantsql.com/xcxjwrdk" 
-    TOKEN="5970006962:AAFEuWgLH8PjvJkggpArlTi9iryjY22KQn4"
+    TOKEN="5970006962:"
     DEV_USERS=[]
     DRAGONS=[]
     SPAMWATCH_API=""

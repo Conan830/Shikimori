@@ -60,7 +60,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 PM_START_TEXT = """
-*Heyaa.! {}, I'M Lucy ♡*
+*Heyaa.! {}, I'M Akari ♡*
 *I'M An Group Management Bot, Built For Weebs.*
 • *Alive Since* - {}
 *Use /help To Go Through My Commands..*
@@ -70,10 +70,10 @@ buttons = [
     [
                         InlineKeyboardButton(
                              text="+Add Me",
-                             url="https://t.me/Lucy_Probot?startgroup=true"),
+                             url="https://t.me/AkariRobot?startgroup=true"),
                         InlineKeyboardButton(
                              text="Support",
-                             url="https://t.me/LucyBot_Support"),
+                             url="https://t.me/AstorSupport"),
                     ],
                   [
                         InlineKeyboardButton(
@@ -81,12 +81,12 @@ buttons = [
                              callback_data="help_back"),
                         InlineKeyboardButton(
                              text="Updates",
-                             url="https://t.me/LucyBotUpdates"),
+                             url="https://t.me/AstorPro"),
                     ],
                   [
                         InlineKeyboardButton(
                              text="Chit-Chat",
-                             url="https://t.me/AnimeChatNirvana"),
+                             url="https://t.me/ANMIxCAFE"),
                     ],
     ]
 
@@ -127,7 +127,7 @@ Main commands available :
 For all command use / or !
 """
 
-TOGA_PIC = ""
+TOGA_PIC = "https://te.legra.ph/file/82265204b556d514a3a1b.jpg"
 
 TOGA_N_IMG = (
   "",
@@ -136,7 +136,7 @@ TOGA_N_IMG = (
 
 TOGA_VID = ""
 
-PM_PHOTO = "https://telegra.ph/file/a98e8153d0c258011e562.jpg"
+PM_PHOTO = "https://te.legra.ph/file/82265204b556d514a3a1b.jpg"
 
 TOGA_DISPACHER_PIC = ""
 

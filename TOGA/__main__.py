@@ -755,7 +755,7 @@ def main():
         )
         except Unauthorized:
             LOGGER.warning(
-                "Shanks can't able to send message to support_chat, go and check!")
+                "Akari can't able to send message to support_chat, go and check!")
         except BadRequest as e:
             LOGGER.warning(e.message)
 

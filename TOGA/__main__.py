@@ -127,7 +127,7 @@ Main commands available :
 For all command use / or !
 """
 
-TOGA_PIC = "https://graph.org//file/bf09bef5ee533c00ba1a8.jpg"
+TOGA_PIC = "https://telegra.ph/file/ae67e28b71340f5d501c9.jpg"
 
 TOGA_N_IMG = (
   "",
@@ -136,7 +136,7 @@ TOGA_N_IMG = (
 
 TOGA_VID = ""
 
-PM_PHOTO = "https://graph.org//file/bf09bef5ee533c00ba1a8.jpg"
+PM_PHOTO = "https://telegra.ph/file/ae67e28b71340f5d501c9.jpg"
 
 TOGA_DISPACHER_PIC = ""
 

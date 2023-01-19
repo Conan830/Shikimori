@@ -106,7 +106,7 @@ ABOUT2 = """
 """
 
 ABOUT3 = """
-Hello [{}], My name is Lucy. A Powerful Telegram Group Management Bot built to help you manage Group easily.
+Hello [{}], My name is ShiKimori San♡. A Powerful Telegram Group Management Bot built to help you manage Group easily.
 ‣ I can Restrict Users.
 ‣ I can Greet Users with customizable welcome message and even set a group rules
 ‣ I have an advanced Anti-Flood System which will help you to safe group from Spammmer.
@@ -274,7 +274,7 @@ def start(update: Update, context: CallbackContext):
         first = update.effective_user.full_name
         chat = update.effective_chat.title
         update.effective_message.reply_video(
-                video= "https://telegra.ph/file/c29e65a130ef235866652.mp4",
+                video= "https://telegra.ph/file/a34fccdee35c8c17bc6d8.mp4",
                 caption="Started!‎‎‎‎‎‎‎‎ㅤ",
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
@@ -282,10 +282,10 @@ def start(update: Update, context: CallbackContext):
                   [
                        InlineKeyboardButton(
                              text="Support",
-                             url="t.me/LucyBotSupport"),
+                             url="t.me/AstorSupport"),
                        InlineKeyboardButton(
                              text="Updates",
-                             url="t.me/LucyBotUpdates")
+                             url="t.me/AstorPro")
                      ]
                 ]
             ),

@@ -60,7 +60,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 PM_START_TEXT = """
-*Heyaa.! {}, I'M Akari ♡*
+*Heyaa.! {}, I'M ShiKimori San♡*
 *I'M An Group Management Bot, Built For Weebs.*
 • *Alive Since* - {}
 *Use /help To Go Through My Commands..*
@@ -70,7 +70,7 @@ buttons = [
     [
                         InlineKeyboardButton(
                              text="+Add Me",
-                             url="https://t.me/AkariRobot?startgroup=true"),
+                             url="https://t.me/ShiKimoriSuperBot?startgroup=true"),
                         InlineKeyboardButton(
                              text="Support",
                              url="https://t.me/AstorSupport"),
@@ -127,7 +127,7 @@ Main commands available :
 For all command use / or !
 """
 
-TOGA_PIC = "https://te.legra.ph/file/82265204b556d514a3a1b.jpg"
+TOGA_PIC = "https://graph.org//file/bf09bef5ee533c00ba1a8.jpg"
 
 TOGA_N_IMG = (
   "",
@@ -136,7 +136,7 @@ TOGA_N_IMG = (
 
 TOGA_VID = ""
 
-PM_PHOTO = "https://te.legra.ph/file/82265204b556d514a3a1b.jpg"
+PM_PHOTO = "https://graph.org//file/bf09bef5ee533c00ba1a8.jpg"
 
 TOGA_DISPACHER_PIC = ""
 
